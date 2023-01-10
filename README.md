@@ -1,2 +1,2 @@
 # epb
-Easy access running your pocketbase with single app
+Easy running your pocketbase with single app
